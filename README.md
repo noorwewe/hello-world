@@ -1,3 +1,3 @@
 # hello-world
 Just another repository
-Just antother business
+Just another business
